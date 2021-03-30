@@ -1,0 +1,11 @@
+Micha@DESKTOP-N0A3U5G MINGW64 /d/kodowanie/learning-git-4 (master)
+$ html-validate *.html
+
+index.html
+  11:11  error  Trailing whitespace                                  no-trailing-whitespace
+  19:57  error  Trailing whitespace                                  no-trailing-whitespace
+  48:18  error  <img> is missing required "alt" attribute            wcag/h37
+  53:18  error  Anchor link must have a text describing its purpose  wcag/h30
+  53:88  error  Inline style is not allowed                          no-inline-style
+
+✖ 5 problems (5 errors, 0 warnings)
